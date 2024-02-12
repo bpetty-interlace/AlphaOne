@@ -1,0 +1,14 @@
+{
+  "profiles": {
+    "AlphaOne": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7070"
+    },
+    "Docker": {
+      "commandName": "Docker",
+      "launchUrl": "{Scheme}://{ServiceHost}:{ServicePort}",
+      "httpPort": 30113,
+      "useSSL": false
+    }
+  }
+}
